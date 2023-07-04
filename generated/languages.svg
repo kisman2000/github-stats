@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #b07219;width: 96.076%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 2.853%;" class="progress-item"></span><span style="background-color: #5686a5;width: 0.758%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.145%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.115%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.040%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.008%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.003%;" class="progress-item"></span><span style="background-color: #000080;width: 0.002%;" class="progress-item"></span>
+<span style="background-color: #b07219;width: 96.054%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 2.871%;" class="progress-item"></span><span style="background-color: #5686a5;width: 0.758%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.145%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.115%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.040%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.008%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.008%;" class="progress-item"></span><span style="background-color: #000080;width: 0.002%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Java</span>
-<span class="percent">96.08%</span>
+<span class="percent">96.05%</span>
 </li>
 
 
@@ -153,7 +153,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Kotlin</span>
-<span class="percent">2.85%</span>
+<span class="percent">2.87%</span>
 </li>
 
 
@@ -194,20 +194,20 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 
 
 <li style="animation-delay: 900ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#89e051;"
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#C1F12E;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Shell</span>
+<span class="lang">Batchfile</span>
 <span class="percent">0.01%</span>
 </li>
 
 
 <li style="animation-delay: 1050ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#C1F12E;"
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#89e051;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Batchfile</span>
-<span class="percent">0.00%</span>
+<span class="lang">Shell</span>
+<span class="percent">0.01%</span>
 </li>
 
 
